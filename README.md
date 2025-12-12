@@ -1,5 +1,3 @@
----
-
 ## Hotel Pricing Engine
 
 **Peregrine Consulting × USC Kappa Theta Pi**
