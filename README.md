@@ -129,8 +129,6 @@ This demonstrates how the engine can be used for **scenario testing** and pricin
 ```
 ├── data/                 # Raw and cleaned datasets
 ├── notebooks/            # EDA, modeling, and evaluation notebooks
-├── models/               # Trained model artifacts
-├── visualizations/       # Plots and charts
 └── README.md
 ```
 
